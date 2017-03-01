@@ -3,7 +3,7 @@
 ##Overview
 
 This is the code for [this](https://youtu.be/ftMq5ps503w) video on Youtube by Siraj Raval part of the Udacity Deep Learning nanodegree. 
-We use an [Reccurent neural network](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) 
+We use a [Reccurent neural network](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) 
 to learn the mapping between two binary sequences. We'll learn how memory operates in a recurrent net in this notebook.
 
 ##Dependencies
